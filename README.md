@@ -1,1 +1,3 @@
-2D round based game about surviving waves of enemies on an island ranch. Made with Python using the Pygame module
+# Ranch Ranger – 2D Top-Down Shooter | Pygame, Python
+#  -Built weapons, shop, inventory, and enemy wave systems
+#  -Designed the UI and fast-paced gameplay loop
